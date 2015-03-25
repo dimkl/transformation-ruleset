@@ -1,0 +1,23 @@
+{
+    "name": "dimkl/transformation-ruleset",
+    "description": "Transformation ruleset",
+    "license": "GPL-3.0+",
+    "authors": [{
+        "name": "Dimitris Klouvas",
+        "email": "dimitris.klouvas@gmail.com"
+    }],
+    "minimum-stability": "beta",
+    "require": {
+        "dimkl/ruleset": "dev-master",
+        "php": ">=5.3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Transformation\\": "src/",
+            "RuleSet\\": "src/"
+        }
+    }
+}
