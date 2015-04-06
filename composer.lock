@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "0c137800258095b67668a301442a31b7",
+    "hash": "e4d826a9455b9175981f92d6d2fe455c",
     "packages": [
         {
             "name": "dimkl/ruleset",
